@@ -10,3 +10,5 @@ The update process in Chrome on [stadia.com/controller](https://stadia.com/contr
 The controller needs to have a charge of at least 10%.
 Holding "..." and powering the Controller up seems to enable a firmware update mode.
 Pressing "...", "Google Assistant", "Y" and "A" triggers some kind of unlock mode.
+
+A very helpful and detailed reddit post by debianite is found here https://www.reddit.com/r/Stadia/comments/10ej13s/comment/j4rp442/?utm_source=share&utm_medium=web2x&context=3
