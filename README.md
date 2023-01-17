@@ -1,4 +1,4 @@
-# Stadia-Controller-Bluetooth-Firmware-Bin
+# Stadia Controller Bluetooth Firmware Files
 The binary files for the Stadia Controller Bluetooth firmware
 
 The update process in Chrome on [stadia.com/controller](https://stadia.com/controller) installs the files in the following order:
