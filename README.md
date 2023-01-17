@@ -1,7 +1,9 @@
 # Stadia Controller Bluetooth Firmware Files
-The binary files for the Stadia Controller Bluetooth firmware
+The binary files for the Stadia Controller Bluetooth firmware found on [stadia.com/controller](https://stadia.com/controller)
 
-The update process (https://stadia.google.com/controller/app_combined.js) in Chrome on [stadia.com/controller](https://stadia.com/controller) loads the files in the following order:
+The update process (found in https://stadia.google.com/controller/app_combined.js) uses WebUSB to update the controller in Chrome.  
+
+It loads the files in the following order:
 
 1. restricted_ivt_flashloader.bin (https://stadia.google.com/controller/data/restricted_ivt_flashloader.bin)
 2. flashloader_fcb_get_vendor_id.bin (https://stadia.google.com/controller/data/flashloader_fcb_get_vendor_id.bin)
